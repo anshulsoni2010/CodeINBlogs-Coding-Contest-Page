@@ -261,3 +261,9 @@
   new PureCounter();
 
 })()
+
+
+let submitData = () => {
+  window.open('quiz/index.html')
+}
+  
